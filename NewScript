@@ -1,4 +1,3 @@
-wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kjrmz/Latest/refs/heads/main/New"))()
 (then)
 
